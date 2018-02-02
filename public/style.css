@@ -1,0 +1,19 @@
+li {
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color:black;
+    font-size:20px;
+}
+
+a:hover{
+    color:pink;
+}
+
+h1{
+    font-size:30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
